@@ -1,4 +1,5 @@
 # 🏭 Manufacturing Process Control (SQL)
+![Final Result](final_result.png)
 
 ## 📖 Business Problem
 
